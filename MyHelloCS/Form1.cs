@@ -17,9 +17,9 @@ namespace MyHelloCS
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnGreeting_click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("우왕ㅇ아앙 안녕?", "반가워~", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
         }
     }
 }

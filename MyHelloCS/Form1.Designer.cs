@@ -42,7 +42,7 @@
             this.btnGreeting.TabIndex = 0;
             this.btnGreeting.Text = "인사 하기";
             this.btnGreeting.UseVisualStyleBackColor = true;
-            this.btnGreeting.Click += new System.EventHandler(this.button1_Click);
+            this.btnGreeting.Click += new System.EventHandler(this.btnGreeting_click);
             // 
             // FormMain
             // 
