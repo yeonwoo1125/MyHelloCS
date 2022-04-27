@@ -1,0 +1,11 @@
+D:\C#\MyHelloCS\MyHelloCS\bin\Debug\MyHelloCS.exe.config
+D:\C#\MyHelloCS\MyHelloCS\bin\Debug\MyHelloCS.exe
+D:\C#\MyHelloCS\MyHelloCS\bin\Debug\MyHelloCS.pdb
+D:\C#\MyHelloCS\MyHelloCS\obj\Debug\MyHelloCS.csproj.AssemblyReference.cache
+D:\C#\MyHelloCS\MyHelloCS\obj\Debug\MyHelloCS.csproj.SuggestedBindingRedirects.cache
+D:\C#\MyHelloCS\MyHelloCS\obj\Debug\MyHelloCS.FormMain.resources
+D:\C#\MyHelloCS\MyHelloCS\obj\Debug\MyHelloCS.Properties.Resources.resources
+D:\C#\MyHelloCS\MyHelloCS\obj\Debug\MyHelloCS.csproj.GenerateResource.cache
+D:\C#\MyHelloCS\MyHelloCS\obj\Debug\MyHelloCS.csproj.CoreCompileInputs.cache
+D:\C#\MyHelloCS\MyHelloCS\obj\Debug\MyHelloCS.exe
+D:\C#\MyHelloCS\MyHelloCS\obj\Debug\MyHelloCS.pdb
